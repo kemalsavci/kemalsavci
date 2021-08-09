@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<!--
-**kemalsavci/kemalsavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kemal. I am a Computer Engineer student at Istanbul University-Cerrahpasa. 
 
+- 🔭 I’m currently working on PHP, HTML/CSS, Javascript, Codeigniter.
+- 📫 How to reach me: mehmetkemalsavci@gmail.com
+<!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
